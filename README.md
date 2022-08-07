@@ -19,5 +19,4 @@ Microsoft 365 general / portal
 
 Azure Active Directory
 - [ ] [Incorrect capitalisation of Customer "LockBox" Approver role in Azure AD & docs](https://github.com/loryanstrant/M365typos/issues/1)
-- [ ] #1
-- [ ] 
+- [ ] [#1]
