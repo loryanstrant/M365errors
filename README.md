@@ -14,7 +14,7 @@ Current open issues:
 =====================
 
 Microsoft 365 general / portal
-- [ ] https://github.com/loryanstrant/M365typos/issues/2
+- [ ] #2
 
 Azure Active Directory
 - [ ] https://github.com/loryanstrant/M365typos/issues/1
