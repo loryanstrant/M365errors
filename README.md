@@ -14,7 +14,9 @@ Current open issues:
 =====================
 
 Microsoft 365 general / portal
-- [ ] Old Bookings logo in M365 app launcher (https://github.com/loryanstrant/M365typos/issues/2)
+- [ ] [Old Bookings logo in M365 app launcher](https://github.com/loryanstrant/M365typos/issues/2)
+- [ ] #2
 
 Azure Active Directory
-- [ ] Incorrect capitalisation of Customer "LockBox" Approver role in Azure AD & docs (https://github.com/loryanstrant/M365typos/issues/1)
+- [ ] [Incorrect capitalisation of Customer "LockBox" Approver role in Azure AD & docs](https://github.com/loryanstrant/M365typos/issues/1)
+- [ ] #1
