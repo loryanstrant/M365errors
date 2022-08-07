@@ -8,3 +8,13 @@ The rules are simple:
 4. Provide URLs and/or screenshots to support your issue (and highlight the area).
 5. Be professional and respectful - there are humans on the other side of this.
 6. The purpose of this repo is to help, not complain.
+
+
+Current open issues:
+=====================
+
+Microsoft 365 general / portal
+- [ ] https://github.com/loryanstrant/M365typos/issues/2
+
+Azure Active Directory
+- [ ] https://github.com/loryanstrant/M365typos/issues/1
