@@ -10,15 +10,4 @@ The rules are simple:
 6. The purpose of this repo is to help, not complain.
 
 
-Current open issues:
-=====================
-
-Microsoft 365 general / portal
-- [ ] [Old Bookings logo in M365 app launcher](https://github.com/loryanstrant/M365typos/issues/2)
-- [ ] #2
-
-Azure Active Directory
-- [ ] [Incorrect capitalisation of Customer "LockBox" Approver role in Azure AD & docs](https://github.com/loryanstrant/M365typos/issues/1)
-- [ ] [#1]
-#3
-#4
+To see the currently open or closed issues, click the **Issues** tab above.
