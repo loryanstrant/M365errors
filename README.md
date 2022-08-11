@@ -10,4 +10,4 @@ The rules are simple:
 6. The purpose of this repo is to help, not complain.
 
 
-To see the currently open or closed issues, click the **Issues** tab above.
+To see the currently open or closed issues, click the [**Issues**](https://github.com/loryanstrant/M365typos/issues) tab above.
