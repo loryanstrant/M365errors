@@ -1,4 +1,4 @@
-# Microsoft 365 Typos
+# Microsoft 365 Errors
 A place to track typos found in Microsoft 365 services, incorrect logos, etc.
 
 The rules are simple:
