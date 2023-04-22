@@ -1,5 +1,5 @@
 # Microsoft 365 Errors
-A place to track typos found in Microsoft 365 services, incorrect logos, etc.
+A place to track typos and incorrect logos found in Microsoft 365 services.
 
 The rules are simple:
 1. If it's just a text issue on docs.microsoft.com and you can edit the page - go right ahead and do that, no need to create an issue here if you can fix it yourself!
@@ -10,4 +10,4 @@ The rules are simple:
 6. The purpose of this repo is to help, not complain.
 
 
-To see the currently open or closed issues, click the [**Issues**](https://github.com/loryanstrant/M365typos/issues) tab above.
+To see the currently open or closed issues, click the [**Issues**](https://github.com/loryanstrant/M365errors/issues) tab above.
