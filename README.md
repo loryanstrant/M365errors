@@ -1,3 +1,11 @@
+## Update, and why I archived the repo
+Not long after I created this repo, I stopped updating it for a couple of main reasons:
+- There were not always places for feedback to be logged on via Microsoft feedback mechanisms
+- I kept finding more and more errors and issues in my daily travels through M365
+
+While I thought originally creating this would be helpful to get the issues resolved, overall it actually became disheartening to see so many errors. We can accept that the platform is big and there are many people involved, but it shouldn't fall to end customers & users to point these out.
+
+
 # Microsoft 365 Errors
 A place to track typos and incorrect logos found in Microsoft 365 services.
 
